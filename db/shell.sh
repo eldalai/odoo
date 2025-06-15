@@ -1,0 +1,1 @@
+docker exec -it --user postgres odoo-db-postgres-1 bash
